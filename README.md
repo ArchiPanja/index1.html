@@ -74,7 +74,7 @@
         </li>
         <li>
             My Hobbies<br/>
-            <a href="./public/hobbies.html">Hobbies</a>
+            <a href="hobbies.html">Hobbies</a>
         </li>
     </ul>
     <footer>
